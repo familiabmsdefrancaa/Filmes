@@ -23,9 +23,9 @@
 <channels>
 <channel>
 <name>[COLOR white][B]::|CANAIS DE TV [COLOR yellow]CINE- DOCUMENTARIOS- VARIEDADES[COLOR white]|::[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://www.minhaoperadora.com.br/wp-content/uploads/2020/01/Confira-qual-canal-foi-o-mais-visto-da-TV-paga-em-2019.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/familiabmsdefrancaa/CANAIS-DE-TV/main/CANAIS%20DE%20TV</externallink>
+<fanart>https://abratel.org.br/wp-content/uploads/2020/12/mix.jpg</fanart>
 <info>Diversos Canais de TV Nacionais e Internacionais</info>
 </channel>
 </channels>
