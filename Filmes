@@ -22,6 +22,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
+<name>[COLOR white][B]::|SÉRIES [COLOR yellow]DUBLADAS E LEGENDADAS[COLOR white]|::[/B][/COLOR]</name>
+<thumbnail>https://www.meusmiolos.com.br/blog/wp-content/uploads/2014/09/s%C3%A9ries1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/familiabmsdefrancaa/S-ries/main/S%C3%A9ries</externallink>
+<fanart>https://www.meusmiolos.com.br/blog/wp-content/uploads/2014/09/s%C3%A9ries1.jpg</fanart>
+<info>Séries completas e Temporadas das séries</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
 <name>[COLOR white][B]::|CANAIS DE TV [COLOR yellow]CINE- DOCUMENTARIOS- VARIEDADES[COLOR white]|::[/B][/COLOR]</name>
 <thumbnail>https://www.minhaoperadora.com.br/wp-content/uploads/2020/01/Confira-qual-canal-foi-o-mais-visto-da-TV-paga-em-2019.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/familiabmsdefrancaa/CANAIS-DE-TV/main/CANAIS%20DE%20TV</externallink>
